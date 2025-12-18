@@ -38,6 +38,38 @@ const foods = [
     img: "./images/milkshake.jpeg",
     desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral`,
   },
+  {
+    id: 5,
+    title: "Buttermilk Pancakes",
+    category: "breakfast",
+    price: 15.99,
+    img: "./images/pancake.jpeg",
+    desc: `I'm baby woke mlkshka wolf bitetr live-edge blue bottle`,
+  },
+  {
+    id: 6,
+    title: "Diner double",
+    category: "lunch",
+    price: 13.99,
+    img: "./images/diner.jpeg",
+    desc: `vaporware Iphone mumbled selvage raw denim slow-card leggings`,
+  },
+  {
+    id: 7,
+    title: "Egg attack",
+    category: "dinner",
+    price: 22.99,
+    img: "./images/egg.jpeg",
+    desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table`,
+  },
+  {
+    id: 8,
+    title: "Godzilla Milkshake",
+    category: "shakes",
+    price: 6.99,
+    img: "./images/milkshake.jpeg",
+    desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral`,
+  },
 ];
 
 const createMenuCard = (food) => {
